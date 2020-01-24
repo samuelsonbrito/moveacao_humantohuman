@@ -1,0 +1,9 @@
+1. Abria a pasta Db e executar os arquivos:
+	- moveacaoBd.sql,
+	- id.sql
+	- validarLogin.sql 
+	- cadastrarContato.sql
+
+2. Alocar pasta Moveacao para o diretório do servirdor web.
+
+3. URL: localhost/moveacao/idex.php
